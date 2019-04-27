@@ -1,0 +1,3 @@
+rootProject.name = 'fortnite_gaming_app_2790'
+
+include ':app'
